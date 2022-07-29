@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(88, 85, 88);
+}
+h1 {
+    color: rgb(255, 85, 0);
+}
+.button{
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+    background-color: rgb(246, 252, 184);
+    font-style: italic;
+    font-size: 50px;
+    
+}
+.black{
+    color: black;
+    font-style: italic;
+    background-color: black;
+    font-size: 50px;
+}
+.red{
+    color: red;
+    font-style: italic;
+    background-color: red;
+    font-size: 50px;
+}
+.blue{
+    color: blue;
+    font-style: italic;
+    background-color: blue;
+    font-size: 50px;
+}
+.green{
+    color: green;
+    font-style: italic;
+    background-color: green;
+    font-size: 50px;
+}
+.push{
+    background-color: aqua;
+    font-size: 70px;
+}
+
+.bblack{
+    background-color: black;
+    font-size: 70px;
+    color: white;
+}
+.bred{
+    background-color: red;
+    font-size: 70px;
+    color: white;
+}
+.bblue{
+    background-color: blue;
+    font-size: 70px;
+    color: white;
+}
+.bgreen{
+    background-color: green;
+    font-size: 70px;
+    color: white;
+}
+
+.white{
+    background-color: white;
+    font-size: 40px;
+}
+.yellow{
+    background-color: yellow;
+    font-size: 40px;
+}
+
+.hello{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+#show-more{
+    display: block;
+}
+
+.dol {
+    font-size: 40px;
+}
+
+.hendrix{
+    width: 30em;
+
+}
+
+button img{
+    width: 2em;
+    display: block;  
+} 
+
+.songName{
+    color: azure;
+}
+.grand{
+    width: 15em;
+}
+.dares{
+    width: 15em;
+}
+.muse{
+    width: 15em;
+}
